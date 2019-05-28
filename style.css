@@ -1,0 +1,82 @@
+
+header {
+    background-color: rgb(73, 54, 54);
+    padding: 50px;
+    
+}
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff; 
+    font-size: 48px;
+    text-align: center;
+}
+.nav {
+    margin-left: 20px;
+}
+
+#buttons {
+    float: right;
+    margin-bottom: 20px;
+}
+
+#container {
+    margin-bottom: 50px;
+    overflow: auto;
+    max-height: 90%;
+
+}
+h2 {
+    text-align: center;
+    font-family: Verdana;
+    color: white;
+}
+
+.articleTitle {
+    color: rgb(110, 110, 218)
+}
+
+
+#wrapper {
+    overflow: auto;
+    max-height: 100%
+ 
+}
+
+article {
+    width: 60%;
+    margin-top: 50px;
+    padding: 10px;
+    margin-left: 30px;
+    background-color: beige;
+    float: left;
+
+}
+aside {
+    background-color: bisque;
+    width: 30%;
+    float: right;
+    padding: 10px;
+    margin-top: 50px;
+   
+}
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+footer {
+    background-color: rgb(73, 54, 54);
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff; 
+    padding: 20px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%
+
+}
+
+
+
+
+
